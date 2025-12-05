@@ -3105,6 +3105,7 @@
 /ip dns static add name=www-cdn.whatsapp.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=www-fallback.whatsapp.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=www.packages.whatsapp.biz type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=www.roblox.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=www.wa.me type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=www.whatsapp.biz type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=www.whatsapp.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost

@@ -3106,6 +3106,7 @@ ipset=/wunderground.com/vpn_domains
 ipset=/www-cdn.whatsapp.net/vpn_domains
 ipset=/www-fallback.whatsapp.com/vpn_domains
 ipset=/www.packages.whatsapp.biz/vpn_domains
+ipset=/www.roblox.com/vpn_domains
 ipset=/www.wa.me/vpn_domains
 ipset=/www.whatsapp.biz/vpn_domains
 ipset=/www.whatsapp.com/vpn_domains

@@ -3106,6 +3106,7 @@ nftset=/wunderground.com/4#inet#fw4#vpn_domains
 nftset=/www-cdn.whatsapp.net/4#inet#fw4#vpn_domains
 nftset=/www-fallback.whatsapp.com/4#inet#fw4#vpn_domains
 nftset=/www.packages.whatsapp.biz/4#inet#fw4#vpn_domains
+nftset=/www.roblox.com/4#inet#fw4#vpn_domains
 nftset=/www.wa.me/4#inet#fw4#vpn_domains
 nftset=/www.whatsapp.biz/4#inet#fw4#vpn_domains
 nftset=/www.whatsapp.com/4#inet#fw4#vpn_domains
