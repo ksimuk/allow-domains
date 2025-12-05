@@ -705,6 +705,7 @@ ipset=/r4.err.ee/vpn_domains
 ipset=/radiosakharov.org/vpn_domains
 ipset=/radiosvoboda.org/vpn_domains
 ipset=/rbc.ua/vpn_domains
+ipset=/rbxcdn.com/vpn_domains
 ipset=/reactflow.dev/vpn_domains
 ipset=/realbooru.com/vpn_domains
 ipset=/realist.online/vpn_domains

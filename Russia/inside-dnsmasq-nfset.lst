@@ -705,6 +705,7 @@ nftset=/r4.err.ee/4#inet#fw4#vpn_domains
 nftset=/radiosakharov.org/4#inet#fw4#vpn_domains
 nftset=/radiosvoboda.org/4#inet#fw4#vpn_domains
 nftset=/rbc.ua/4#inet#fw4#vpn_domains
+nftset=/rbxcdn.com/4#inet#fw4#vpn_domains
 nftset=/reactflow.dev/4#inet#fw4#vpn_domains
 nftset=/realbooru.com/4#inet#fw4#vpn_domains
 nftset=/realist.online/4#inet#fw4#vpn_domains
