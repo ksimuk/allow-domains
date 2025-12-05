@@ -441,6 +441,7 @@
 /ip dns static add name=jetbrains.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=jetbrains.space type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=jnn-pa.googleapis.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=js.rbxcdn.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=jskor.ill.in.ua type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=jut-su.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=jut.su type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -708,6 +709,7 @@
 /ip dns static add name=radiosakharov.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=radiosvoboda.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=rbc.ua type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=rbxcdn.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=reactflow.dev type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=realbooru.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=realist.online type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
