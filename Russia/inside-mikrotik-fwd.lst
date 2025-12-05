@@ -60,6 +60,7 @@
 /ip dns static add name=api.service-kp.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=api.theins.info type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=api.themoviedb.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=apis.roblox.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=apkmirror.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=app.zerossl.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=arbat.media type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -411,6 +412,7 @@
 /ip dns static add name=ikea.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=ilook.tv type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=image.tmdb.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=images.rbxcdn.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=imgur.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=important-stories.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=indeed.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost

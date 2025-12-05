@@ -60,6 +60,7 @@ DOMAIN-SUFFIX,api.jetbrains.ai
 DOMAIN-SUFFIX,api.service-kp.com
 DOMAIN-SUFFIX,api.theins.info
 DOMAIN-SUFFIX,api.themoviedb.org
+DOMAIN-SUFFIX,apis.roblox.com
 DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,app.zerossl.com
 DOMAIN-SUFFIX,arbat.media
@@ -411,6 +412,7 @@ DOMAIN-SUFFIX,iichan.hk
 DOMAIN-SUFFIX,ikea.com
 DOMAIN-SUFFIX,ilook.tv
 DOMAIN-SUFFIX,image.tmdb.org
+DOMAIN-SUFFIX,images.rbxcdn.com
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,important-stories.com
 DOMAIN-SUFFIX,indeed.com
